@@ -1,0 +1,4 @@
+main.c:16:6:colck_En	4	static
+main.c:21:6:GPIO_init	16	static
+main.c:48:6:my_wait	24	static
+main.c:55:5:main	8	static
